@@ -6,20 +6,27 @@
 ---
 
 ## ✨ Key Features
-- 🧠 **Mental Health Chatbot** – Understands user mood using NLP (sentiment analysis)
+
+- 🧠 **Mental Health Chatbot** – Understands user mood using NLP (Sentiment Analysis)
 - 📓 **Personal Journal** – A private space to write your thoughts
 - 💌 **Gratitude Jar** – Save happy memories to revisit anytime
-- 🌱 **Emotional Personas** – Talk to:
-  - 🧘‍♂️ A wise mentor
-  - 🌊 A calm listener
-  - ☀️ A cheerful friend
-- 🌙 **Comforting UI** – Soft colors and simple design to make you feel at ease
+- 🌱 **Emotional Personas** – Choose your support style:
+  - 🧘‍♂️ Wise Mentor
+  - 🌊 Calm Listener
+  - ☀️ Cheerful Friend
+- 📊 **Mood Tracker** – Track emotional patterns using CSV and JSON file storage
+- 🏠 **Landing Page with User Flow** – Clean layout showing:
+  - Introduction to Bloom
+  - Persona selection
+  - Quick access to Journal, Chatbot & Gratitude Jar
+- 🌙 **Comforting UI** – Soft colors and minimal design to soothe the user experience
 
 ---
-## 🛠 Tech Stack
-- *Frontend:* HTML, CSS, JavaScript
-- *Backend:* Python (Flask)
-- *AI/ML:* NLP using VADER Sentiment Analysis
+**Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python (Flask)  
+- **AI/ML**: NLP using VADER Sentiment Analysis  
+- **Storage**: CSV and JSON files (for journal entries, mood logs, gratitude notes)
+
 
 ---
 
@@ -51,3 +58,8 @@ This project was created during a Hackathon to promote mental wellness through k
 
 🤝 Contributions
 Open to ideas and improvements! Feel free to fork the repo and create a pull request.
+
+🌼 Reminder
+“Mental health matters. Bloom gently.” 💗
+
+
